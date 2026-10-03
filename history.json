@@ -1,0 +1,709 @@
+{
+  "title": "The history of the photoelectric effect",
+  "tagline": "From a stray spark in Hertz's laboratory to Einstein's photons, and on to solar panels and camera chips.",
+  "intro": "In 1887 Heinrich Hertz noticed that ultraviolet light helped a spark to jump. Over the next fifteen years experimenters found rules that the wave theory of light could not explain: a threshold colour, no delay, and electron energies that ignored brightness. In 1905 Einstein explained them all by treating light as packets of energy, and by 1916 Millikan had confirmed his equation. The same idea now counts single photons, opens lift doors, takes photographs and turns sunlight into electricity.",
+  "eras": [
+    {
+      "id": "sparks",
+      "name": "Sparks and charged plates",
+      "from": 1839,
+      "to": 1899,
+      "color": "#ffb547",
+      "summary": "Light is found to make voltages, help sparks jump and drive negative charge out of metals, and the first photocells are built."
+    },
+    {
+      "id": "quanta",
+      "name": "The quantum idea",
+      "from": 1900,
+      "to": 1916,
+      "color": "#c49bff",
+      "summary": "Planck's lumps of energy, Lenard's puzzling electrons, Einstein's light quanta and Millikan's straight line."
+    },
+    {
+      "id": "photons",
+      "name": "Photons accepted",
+      "from": 1921,
+      "to": 1929,
+      "color": "#6fb6ff",
+      "summary": "Nobel prizes, Compton's bouncing X-rays, Bose's counting, Raman's scattered light and a search for a delay that found none."
+    },
+    {
+      "id": "use",
+      "name": "Putting photons to work",
+      "from": 1930,
+      "to": 2025,
+      "color": "#5ce1a9",
+      "summary": "Photomultipliers, solar cells and camera chips, a final proof that light is grainy, and a kilogram defined by Planck's constant."
+    }
+  ],
+  "events": [
+    {
+      "year": 1839,
+      "date": "1839",
+      "era": "sparks",
+      "art": "flask",
+      "key": false,
+      "title": "Light makes a voltage in a jar",
+      "who": "Edmond Becquerel",
+      "where": "Paris",
+      "country": "France",
+      "text": "Aged 19, working in his father's laboratory, Becquerel put two metal electrodes in a conducting liquid and found that light on one of them produced a voltage. This is the photovoltaic effect, a relative of the photoelectric effect.",
+      "why": "It was the first sign that light can drive electricity, and the distant ancestor of the solar cell.",
+      "box": "sun",
+      "sources": [
+        3,
+        0
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "sparks",
+      "art": "flash",
+      "key": true,
+      "title": "A spark that liked ultraviolet",
+      "who": "Heinrich Hertz",
+      "where": "Karlsruhe",
+      "country": "Germany",
+      "text": "While making the first radio waves, Hertz put his spark detector in a dark box to see it better, and the sparks got shorter. A sheet of glass had the same effect, but quartz did not. He worked out that ultraviolet light from the main spark was helping the small one to jump. He reported it and went back to radio waves.",
+      "why": "This is the discovery of the photoelectric effect, by a man proving that light is a wave.",
+      "box": "idea",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888",
+      "era": "sparks",
+      "art": "plate",
+      "key": true,
+      "title": "A zinc plate loses its charge",
+      "who": "Wilhelm Hallwachs",
+      "where": "Leipzig",
+      "country": "Germany",
+      "text": "Hallwachs, who had assisted Hertz, shone ultraviolet light on a freshly cleaned zinc plate. A negatively charged plate lost its charge. A positively charged one did not. For years the effect was called the Hallwachs effect.",
+      "why": "It showed that light drives negative charge out of a metal.",
+      "box": "idea",
+      "sources": [
+        0,
+        2
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888–1891",
+      "era": "sparks",
+      "art": "bolt",
+      "key": false,
+      "title": "Brighter light, more current",
+      "who": "Aleksandr Stoletov",
+      "where": "Moscow",
+      "country": "Russia",
+      "text": "In a series of careful papers Stoletov built an apparatus with a metal plate and a wire mesh, and measured the current that light produced. He found it was directly proportional to the intensity of the light.",
+      "why": "This is the first law of the photoelectric effect, and the model shows it as a straight line of current against brightness.",
+      "box": "idea",
+      "sources": [
+        0,
+        29
+      ]
+    },
+    {
+      "year": 1893,
+      "date": "c. 1893",
+      "era": "sparks",
+      "art": "lens",
+      "key": false,
+      "title": "The first photocells",
+      "who": "Julius Elster and Hans Geitel",
+      "where": "Wolfenbüttel",
+      "country": "Germany",
+      "text": "Two school teachers who shared a home laboratory found that sodium, potassium and rubidium respond to visible light, not only ultraviolet. They sealed alkali metals in glass bulbs and made the first practical photoelectric cells, used to measure the brightness of light.",
+      "why": "It turned a laboratory puzzle into an instrument, decades before anyone could explain it.",
+      "box": "switch",
+      "sources": [
+        5,
+        4,
+        0
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "14 December 1900",
+      "era": "quanta",
+      "art": "heatwaves",
+      "key": false,
+      "title": "Energy in lumps",
+      "who": "Max Planck",
+      "where": "Berlin",
+      "country": "Germany",
+      "text": "To fit the colours given off by hot objects, Planck assumed that matter gives out and takes in light energy only in lumps of size h × f. He introduced the constant h, now named after him, and thought of the lumps as a mathematical trick.",
+      "why": "It put the quantum into physics, though nobody yet believed light itself was lumpy.",
+      "sources": [
+        28,
+        0
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "quanta",
+      "art": "sinewave",
+      "key": true,
+      "title": "Brightness does not make electrons faster",
+      "who": "Philipp Lenard",
+      "where": "Kiel",
+      "country": "Germany",
+      "text": "By then J. J. Thomson had shown that the particles driven out by light are electrons. Lenard measured their energy with a stopping voltage and found it did not change when he made the light far brighter. Only the number of electrons rose. Their energy depended on the kind of light.",
+      "why": "A wave should hit harder when it is stronger. This result could not be explained by the wave theory.",
+      "box": "idea",
+      "sources": [
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "received 18 March, published 9 June 1905",
+      "era": "quanta",
+      "art": "word",
+      "key": true,
+      "title": "Einstein's light quanta",
+      "who": "Albert Einstein",
+      "where": "Bern",
+      "country": "Switzerland",
+      "text": "A 26-year-old patent clerk proposed that light itself travels as separate quanta, each of energy hf, which are absorbed whole. One quantum gives its energy to one electron, which keeps hf minus the work needed to leave the metal. He predicted that the stopping voltage would rise in a straight line with frequency.",
+      "why": "It explained the threshold, the missing delay and Lenard's result in one line: E = hf − φ.",
+      "box": "idea",
+      "sources": [
+        7,
+        0
+      ]
+    },
+    {
+      "year": 1916,
+      "date": "1914–1916",
+      "era": "quanta",
+      "art": "spring2",
+      "key": true,
+      "title": "Millikan proves the line is straight",
+      "who": "Robert Millikan",
+      "where": "Chicago",
+      "country": "USA",
+      "text": "Millikan thought Einstein's idea was wrong and spent ten years testing it. He built what he called a machine shop in a vacuum: a knife, worked by magnets from outside, shaved fresh surfaces of sodium and lithium before each run. The stopping voltage rose in a straight line with frequency, and its slope gave h = 6.57 × 10⁻²⁷ erg seconds, good to about half a per cent.",
+      "why": "The equation was confirmed exactly, by a man who still did not believe in photons.",
+      "box": "idea",
+      "sources": [
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "year": 1922,
+      "date": "awarded 9 November 1922",
+      "era": "photons",
+      "art": "trophy",
+      "key": true,
+      "title": "A Nobel Prize, but not for relativity",
+      "who": "Albert Einstein",
+      "where": "Stockholm",
+      "country": "Sweden",
+      "text": "The 1921 physics prize was held over for a year, then given to Einstein for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect. Millikan received the 1923 prize partly for testing it.",
+      "why": "The committee chose the result that experiment had confirmed beyond doubt.",
+      "sources": [
+        11,
+        0
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923",
+      "era": "photons",
+      "art": "xray",
+      "key": false,
+      "title": "Photons bounce like balls",
+      "who": "Arthur Compton",
+      "where": "St. Louis",
+      "country": "USA",
+      "text": "Compton scattered X-rays off electrons and found the X-rays came away with a longer wavelength, exactly as if each photon were a tiny ball with momentum hitting an electron. His student Y. H. Woo confirmed it.",
+      "why": "It persuaded most physicists that light quanta are real. Compton won the 1927 Nobel Prize.",
+      "box": "limits",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "letter of 4 June 1924",
+      "era": "photons",
+      "art": "scroll",
+      "key": true,
+      "title": "Bose counts photons",
+      "who": "Satyendra Nath Bose",
+      "where": "Dacca (now Dhaka)",
+      "country": "Bangladesh",
+      "text": "Bose, a reader in physics at Dacca University in British India, derived Planck's law by counting light quanta as particles that cannot be told apart, with no wave theory at all. A British journal turned the paper down, so he posted it to Einstein, who translated it into German himself and had it published in Zeitschrift für Physik.",
+      "why": "It founded quantum statistics. Particles that follow Bose's counting, photons among them, are called bosons.",
+      "sources": [
+        14,
+        13
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "18 December 1926",
+      "era": "photons",
+      "art": "quill",
+      "key": false,
+      "title": "The word photon",
+      "who": "Gilbert N. Lewis",
+      "where": "Berkeley",
+      "country": "USA",
+      "text": "In a letter to Nature the American chemist Gilbert Lewis proposed the name photon. His own idea of what it was turned out to be wrong, but the name stuck to Einstein's light quantum.",
+      "why": "Twenty-one years after Einstein's paper, the particle of light had a name.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "28 February 1928",
+      "era": "photons",
+      "art": "colour",
+      "key": true,
+      "title": "The Raman effect",
+      "who": "C. V. Raman and K. S. Krishnan",
+      "where": "Calcutta (Kolkata)",
+      "country": "India",
+      "text": "At the Indian Association for the Cultivation of Science, Raman and Krishnan found that a tiny part of the light scattered by a liquid changes colour. Each scattered photon had given a fixed amount of energy to a molecule, or taken it. Grigory Landsberg and Leonid Mandelstam saw the same effect in crystals in Moscow that month.",
+      "why": "It was fresh evidence that light trades energy in whole quanta. Raman won the 1930 Nobel Prize, and India marks 28 February as National Science Day.",
+      "sources": [
+        16,
+        17,
+        15
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "September 1928",
+      "era": "photons",
+      "art": "metronome",
+      "key": false,
+      "title": "No waiting",
+      "who": "Ernest Lawrence and Jesse Beams",
+      "where": "USA",
+      "country": "USA",
+      "text": "Using light flashes a ten-millionth of a second long, Lawrence and Beams looked for the delay a wave theory needs before electrons appear. They found that emission begins in less than 3 billionths of a second.",
+      "why": "Atoms do not save up energy from a wave. A photon delivers it in one go.",
+      "box": "limits",
+      "sources": [
+        18,
+        0
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "1930–1936",
+      "era": "use",
+      "art": "spotlight",
+      "key": true,
+      "title": "The photomultiplier",
+      "who": "Leonid Kubetsky; Harley Iams, Bernard Salzberg and Vladimir Zworykin",
+      "where": "Leningrad and RCA, New Jersey",
+      "country": "Russia",
+      "text": "Kubetsky proposed in 1930, and built by 1934, a tube in which the electron freed by light is multiplied at a chain of plates. At RCA, Iams and Salzberg put a photocathode and a multiplying stage in one tube, and Zworykin's group developed multi-stage tubes soon after.",
+      "why": "A single photon could now be turned into a pulse big enough to count.",
+      "box": "count",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "announced 25 April 1954",
+      "era": "use",
+      "art": "battery",
+      "key": true,
+      "title": "The first practical solar cell",
+      "who": "Daryl Chapin, Calvin Fuller and Gerald Pearson",
+      "where": "Bell Laboratories, New Jersey",
+      "country": "USA",
+      "text": "Bell Labs showed a silicon cell with a p–n junction that turned about 6 % of sunlight into electricity, many times better than the selenium cells before it. It uses the photovoltaic effect inside the silicon, not emission into a vacuum. Four years later solar cells powered the satellite Vanguard 1.",
+      "why": "It began the technology that now covers rooftops and deserts.",
+      "box": "sun",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "1969",
+      "era": "use",
+      "art": "pixels",
+      "key": true,
+      "title": "The CCD: pictures from freed electrons",
+      "who": "Willard Boyle and George E. Smith",
+      "where": "Bell Laboratories, New Jersey",
+      "country": "USA",
+      "text": "Boyle and Smith invented the charge-coupled device, a chip that stores the electrons freed by light in rows of tiny wells and passes them along to be counted. A CCD catches around 70 % of the light that falls on it, where film caught about 2 %.",
+      "why": "It replaced film in telescopes and then in every camera. The two shared the 2009 Nobel Prize.",
+      "box": "sun",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1977",
+      "era": "use",
+      "art": "atomspin",
+      "key": false,
+      "title": "Proof that light itself is grainy",
+      "who": "Jeff Kimble, Mario Dagenais and Leonard Mandel",
+      "where": "Rochester, New York",
+      "country": "USA",
+      "text": "The photoelectric effect can, strictly, be explained with quantum atoms and a classical light wave, as Willis Lamb and Marlan Scully argued in 1969. Kimble, Dagenais and Mandel watched the light from single sodium atoms and found photons arriving spaced apart, never in pairs: an effect no wave can produce.",
+      "why": "It closed the last gap in the argument Einstein began in 1905.",
+      "box": "limits",
+      "sources": [
+        22,
+        23,
+        31
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "20 May 2019",
+      "era": "use",
+      "art": "scales",
+      "key": false,
+      "title": "Planck's constant defines the kilogram",
+      "who": "General Conference on Weights and Measures",
+      "where": "Versailles",
+      "country": "France",
+      "text": "The constant that Millikan measured from a photoelectric line was fixed at exactly 6.62607015 × 10⁻³⁴ joule seconds, and the kilogram is now defined from it. The electron's charge was fixed on the same day.",
+      "why": "The slope h ÷ e in the model is now an exact number by definition.",
+      "box": "idea",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "January 2025",
+      "era": "use",
+      "art": "plug",
+      "key": false,
+      "title": "India passes 100 gigawatts of solar",
+      "who": "Ministry of New and Renewable Energy",
+      "where": "India",
+      "country": "India",
+      "text": "India's installed solar capacity reached 100.33 GW on 31 January 2025, up from 2.82 GW in 2014. Every one of those panels works by freeing electrons inside silicon with light.",
+      "why": "Becquerel's laboratory curiosity has become one of the world's main sources of new electricity.",
+      "box": "sun",
+      "sources": [
+        25
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First sighting of the photoelectric effect",
+      "value": "1887",
+      "who": "Heinrich Hertz, Karlsruhe"
+    },
+    {
+      "label": "First practical photoelectric cells",
+      "value": "c. 1893",
+      "who": "Julius Elster and Hans Geitel, Wolfenbüttel"
+    },
+    {
+      "label": "First correct explanation",
+      "value": "1905",
+      "who": "Albert Einstein, Bern"
+    },
+    {
+      "label": "First accurate photoelectric measurement of h",
+      "value": "1916",
+      "who": "Robert Millikan, Chicago: 6.57 × 10⁻³⁴ J s, within about 0.5 %"
+    },
+    {
+      "label": "First practical silicon solar cell",
+      "value": "1954",
+      "who": "Chapin, Fuller and Pearson, Bell Labs: about 6 % efficient"
+    }
+  ],
+  "people": [
+    {
+      "name": "Heinrich Hertz",
+      "life": "1857 – 1894",
+      "role": "Physicist",
+      "from": "Germany",
+      "note": "Proved that radio waves exist and, along the way, discovered the photoelectric effect."
+    },
+    {
+      "name": "Wilhelm Hallwachs",
+      "life": "1859 – 1922",
+      "role": "Physicist",
+      "from": "Germany",
+      "note": "Showed that ultraviolet light drives negative charge off a zinc plate."
+    },
+    {
+      "name": "Aleksandr Stoletov",
+      "life": "1839 – 1896",
+      "role": "Physicist",
+      "from": "Russia",
+      "note": "Found that the photoelectric current is proportional to the brightness of the light."
+    },
+    {
+      "name": "Philipp Lenard",
+      "life": "1862 – 1947",
+      "role": "Physicist",
+      "from": "Germany",
+      "note": "Showed that electron energy ignores brightness. Nobel Prize 1905 for cathode rays; later a supporter of the Nazis and an opponent of Einstein."
+    },
+    {
+      "name": "Albert Einstein",
+      "life": "1879 – 1955",
+      "role": "Theoretical physicist",
+      "from": "Germany and Switzerland",
+      "note": "Explained the effect with light quanta in 1905, for which he won the 1921 Nobel Prize."
+    },
+    {
+      "name": "Robert Millikan",
+      "life": "1868 – 1953",
+      "role": "Experimental physicist",
+      "from": "USA",
+      "note": "Confirmed Einstein's equation and measured Planck's constant from it. Nobel Prize 1923."
+    },
+    {
+      "name": "Satyendra Nath Bose",
+      "life": "1894 – 1974",
+      "role": "Physicist",
+      "from": "India",
+      "note": "Derived Planck's law by counting photons as identical particles. Bosons are named after him."
+    },
+    {
+      "name": "C. V. Raman",
+      "life": "1888 – 1970",
+      "role": "Physicist",
+      "from": "India",
+      "note": "Discovered that scattered light can change colour by trading energy with molecules. Nobel Prize 1930."
+    },
+    {
+      "name": "Arthur Compton",
+      "life": "1892 – 1962",
+      "role": "Physicist",
+      "from": "USA",
+      "note": "Showed that X-ray photons carry momentum and bounce off electrons. Nobel Prize 1927."
+    }
+  ],
+  "series": [
+    {
+      "id": "silicon",
+      "title": "Best silicon solar cells",
+      "unit": "% efficiency",
+      "log": false,
+      "after": "use",
+      "caption": "The share of sunlight a silicon cell turns into electricity has risen from 6 % towards silicon's ceiling of about 29 %.",
+      "points": [
+        {
+          "year": 1954,
+          "value": 6,
+          "label": "Bell Labs: about 6 %"
+        },
+        {
+          "year": 1958,
+          "value": 9,
+          "label": "Hoffman Electronics: 9 %"
+        },
+        {
+          "year": 1960,
+          "value": 14,
+          "label": "Hoffman Electronics: 14 %"
+        },
+        {
+          "year": 1985,
+          "value": 20,
+          "label": "University of New South Wales: 20 %"
+        },
+        {
+          "year": 2017,
+          "value": 26.6,
+          "label": "Silicon heterojunction cell: 26.6 %"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Hertz discovered the photoelectric effect during the very experiments that proved light is an electromagnetic wave.",
+    "Einstein's Nobel Prize was for the photoelectric effect, not for relativity.",
+    "Millikan spent ten years trying to prove Einstein's equation wrong, and proved it right.",
+    "Sunlight knocks electrons off dust on the Moon, charging it so that fine grains can lift off the surface.",
+    "Japan's Super-Kamiokande detector watches 50,000 tonnes of water with more than 11,000 photomultiplier tubes, each half a metre across."
+  ],
+  "sources": [
+    {
+      "title": "Photoelectric effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Photoelectric_effect"
+    },
+    {
+      "title": "Heinrich Hertz",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+    },
+    {
+      "title": "Wilhelm Hallwachs",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Hallwachs"
+    },
+    {
+      "title": "Timeline of solar cells",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_solar_cells"
+    },
+    {
+      "title": "Julius Elster",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Julius_Elster"
+    },
+    {
+      "title": "A brief history of image sensors in the optical",
+      "publisher": "arXiv 2304.07121",
+      "url": "https://arxiv.org/abs/2304.07121"
+    },
+    {
+      "title": "Philipp Lenard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philipp_Lenard"
+    },
+    {
+      "title": "Annus mirabilis papers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Annus_mirabilis_papers"
+    },
+    {
+      "title": "Robert Andrews Millikan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Andrews_Millikan"
+    },
+    {
+      "title": "A Direct Photoelectric Determination of Planck's h (Millikan, 1916)",
+      "publisher": "Caltech Authors",
+      "url": "https://resolver.caltech.edu/CaltechAUTHORS:20131203-155712735"
+    },
+    {
+      "title": "Focus: Landmarks, Millikan Measures the Electron's Charge and Planck's Constant",
+      "publisher": "American Physical Society, Physics",
+      "url": "https://physics.aps.org/story/v3/st23"
+    },
+    {
+      "title": "The Nobel Prize in Physics 1921",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/summary/"
+    },
+    {
+      "title": "Compton scattering",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Compton_scattering"
+    },
+    {
+      "title": "Satyendra Nath Bose",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose"
+    },
+    {
+      "title": "When Bose wrote to Einstein: the power of diverse thinking",
+      "publisher": "Physics World",
+      "url": "https://physicsworld.com/a/when-bose-wrote-to-einstein-the-power-of-diverse-thinking/"
+    },
+    {
+      "title": "Raman scattering",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Raman_scattering"
+    },
+    {
+      "title": "Milestones: Raman Effect, 1928",
+      "publisher": "IEEE Engineering and Technology History Wiki",
+      "url": "https://ethw.org/Milestones:Raman_Effect,_1928"
+    },
+    {
+      "title": "C. V. Raman",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/C._V._Raman"
+    },
+    {
+      "title": "The Element of Time in the Photoelectric Effect (Lawrence and Beams, 1928)",
+      "publisher": "University of Virginia, Jesse W. Beams collected works",
+      "url": "https://web.phys.virginia.edu/History/Beams/Papers/"
+    },
+    {
+      "title": "Photomultiplier tube",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Photomultiplier_tube"
+    },
+    {
+      "title": "Image intensifier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Image_intensifier"
+    },
+    {
+      "title": "Charge-coupled device",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charge-coupled_device"
+    },
+    {
+      "title": "Photon antibunching in resonance fluorescence (Kimble, Dagenais and Mandel, 1977)",
+      "publisher": "Caltech Authors",
+      "url": "https://resolver.caltech.edu/CaltechAUTHORS:KIMprl77"
+    },
+    {
+      "title": "Leonard Mandel, biographical memoir",
+      "publisher": "National Academies Press",
+      "url": "https://www.nap.edu/read/11522/chapter/16"
+    },
+    {
+      "title": "Solar-cell efficiency",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solar-cell_efficiency"
+    },
+    {
+      "title": "India achieves historic milestone of 100 GW solar power capacity",
+      "publisher": "All India Radio News (Government of India)",
+      "url": "https://www.newsonair.gov.in/india-achieves-historic-milestone-of-100-gw-solar-power-capacity/"
+    },
+    {
+      "title": "Work function",
+      "publisher": "Wikipedia (values from the CRC Handbook of Chemistry and Physics)",
+      "url": "https://en.wikipedia.org/wiki/Work_function"
+    },
+    {
+      "title": "The SI Brochure, 9th edition (2019)",
+      "publisher": "Bureau International des Poids et Mesures",
+      "url": "https://www.bipm.org/en/publications/si-brochure"
+    },
+    {
+      "title": "Max Planck",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Max_Planck"
+    },
+    {
+      "title": "Aleksandr Stoletov",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aleksandr_Stoletov"
+    },
+    {
+      "title": "Super-Kamiokande",
+      "publisher": "Kamioka Observatory, ICRR, University of Tokyo",
+      "url": "https://www-sk.icrr.u-tokyo.ac.jp/en/sk/"
+    },
+    {
+      "title": "The concept of the photon",
+      "publisher": "Physics Today",
+      "url": "https://physicstoday.aip.org/features/the-concept-of-the-photon"
+    }
+  ]
+}

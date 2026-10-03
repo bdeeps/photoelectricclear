@@ -1,0 +1,174 @@
+{
+  "slug": "photoelectricclear",
+  "kind": "principle",
+  "box": 32,
+  "date": "2026-10-03",
+  "title": "The photoelectric effect",
+  "question": "What is the photoelectric effect?",
+  "principle": {
+    "type": "principle",
+    "name": "The photoelectric effect",
+    "formula": "E = hf − φ",
+    "formulaNote": "energy of the fastest electron = Planck's constant × the light's frequency − the metal's work function. If hf is less than φ, no electron comes out at all",
+    "idea": "Light arrives in packets called photons, each with an energy set by its colour. A photon can knock an electron out of a metal only if it carries more than the metal's work function, so bluer light frees faster electrons, brighter light frees more of them, and light that is too red frees none however bright it is.",
+    "discovered": "1887 · Heinrich Hertz, Germany; explained in 1905 by Albert Einstein, Switzerland",
+    "art": "flash",
+    "appliesTo": [
+      "cameraclear",
+      "calculatorclear",
+      "remoteclear",
+      "printerclear",
+      "xrayclear",
+      "ctscanclear"
+    ],
+    "examples": [
+      {
+        "title": "Night-vision goggles and photomultipliers",
+        "text": "The true effect at work: a photon frees one electron from a photocathode into a vacuum, and that electron is multiplied millions of times so a single photon can be counted."
+      },
+      {
+        "title": "A camera's pixels",
+        "text": "Each pixel is a tiny silicon well. Every absorbed photon frees one electron inside it, and the camera counts the electrons to get the brightness. Few photons means a grainy picture.",
+        "box": "cameraclear"
+      },
+      {
+        "title": "The calculator's solar strip",
+        "text": "A solar cell uses the related photovoltaic effect: photons free electrons inside a semiconductor and a junction steers them round a circuit. Nothing is thrown out into a vacuum.",
+        "box": "calculatorclear"
+      },
+      {
+        "title": "A rooftop solar panel",
+        "text": "Silicon can only use photons of 1.12 eV or more, so infrared beyond 1,107 nm passes through, and a blue photon's spare energy turns to heat. Good panels turn about 21 % of sunlight into electricity."
+      },
+      {
+        "title": "The TV's remote receiver",
+        "text": "The remote flashes 940 nm infrared. Each photon carries 1.32 eV, more than silicon's 1.12 eV gap, so the photodiode behind the TV's dark window turns the flashes into a current.",
+        "box": "remoteclear"
+      },
+      {
+        "title": "A lift door's safety beam",
+        "text": "An invisible infrared beam crosses the doorway to a photodiode. Step into it, the photocurrent stops, and the controller holds the doors open."
+      },
+      {
+        "title": "A laser printer's drum",
+        "text": "The drum's coating holds static charge in the dark. Where the laser's photons land they free electrons inside it, it conducts, and the charge leaks away to draw the page.",
+        "box": "printerclear"
+      },
+      {
+        "title": "Why bones show on an X-ray",
+        "text": "An X-ray photon carries tens of thousands of electronvolts. In bone, calcium atoms absorb many of them by the photoelectric effect, each photon ejecting an inner electron, so bone casts a shadow.",
+        "box": "xrayclear"
+      },
+      {
+        "title": "A CT scanner's detectors",
+        "text": "Each detector turns X-rays into a flash of light in a crystal, then a silicon photodiode turns the light into electrons: about a thousand detectors measuring thousands of times a second.",
+        "box": "ctscanclear"
+      },
+      {
+        "title": "What a microwave oven cannot do",
+        "text": "A 2.45 GHz photon carries 0.00001 eV, hundreds of thousands of times too little to free an electron or break a bond. A thousand watts of them only shakes water molecules warm.",
+        "box": "microwaveclear"
+      }
+    ]
+  },
+  "hook": "Shine red light on zinc and nothing happens, however bright. Shine a little ultraviolet and electrons fly out at once. Run the experiment that won Einstein his Nobel Prize, find Planck's constant from a straight line, then see the same idea inside night-vision goggles, lift doors, camera sensors and solar panels.",
+  "thumbText": "THE PHOTOELECTRIC EFFECT",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "photoelectric effect",
+    "photon",
+    "work function",
+    "threshold frequency",
+    "stopping voltage",
+    "Planck constant",
+    "E = hf",
+    "Einstein",
+    "Millikan",
+    "photomultiplier",
+    "night vision",
+    "photodiode",
+    "band gap",
+    "solar cell",
+    "photovoltaic effect",
+    "camera sensor",
+    "quantum physics",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "The experiment",
+      "text": "Light on a clean metal plate in a vacuum knocks out electrons. Each photon carries E = hf; an electron spends the work function φ getting out and keeps at most hf − φ. Below the threshold frequency nothing comes out, however bright the light. Above it, brightness sets how many electrons and colour sets how fast. The stopping voltage rises in a straight line with frequency, with slope h ÷ e."
+    },
+    {
+      "title": "Counting photons",
+      "text": "A photomultiplier frees one electron per photon caught, then multiplies it 4 or 5 times at each of ten or so dynodes: a gain of millions. Dim light shows up as separate clicks. Night-vision goggles do the same across a whole picture with a microchannel plate, and the grain you see is single photons."
+    },
+    {
+      "title": "Light as a switch",
+      "text": "Inside a semiconductor a photon frees an electron without throwing it out: the internal photoelectric effect. The threshold is the band gap, 1.12 eV for silicon, so it sees infrared up to 1,107 nm. That runs lift-door beams and TV remotes. A street light's sensor is a strip whose resistance climbs as daylight fades."
+    },
+    {
+      "title": "Solar cells and camera pixels",
+      "text": "A solar cell uses the related photovoltaic effect: light frees electrons and holes inside silicon and a p–n junction steers them round a circuit. Photons below the gap pass through and spare energy becomes heat, leaving 44 % at best; real panels manage about 21 %. A camera pixel stores one electron per photon, with a random wobble of √N."
+    },
+    {
+      "title": "Limits and a myth",
+      "text": "A wave would need seconds or hours to free an electron in dim light; in fact it takes under 3 billionths of a second. Power counts photons, frequency decides what each can do: a 1,000 W microwave oven's photons cannot break one bond. Intense lasers bend the rule by delivering several photons at once."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Photon",
+      "def": "One packet of light, with energy E = h × f. Bluer light means more energetic photons."
+    },
+    {
+      "term": "Work function (φ)",
+      "def": "The least energy needed to pull an electron out of a metal surface: 1.95 eV for caesium, about 4.3 eV for zinc."
+    },
+    {
+      "term": "Threshold frequency",
+      "def": "The lowest frequency that can free electrons from a metal, f₀ = φ ÷ h. Below it, no brightness is enough."
+    },
+    {
+      "term": "Stopping voltage",
+      "def": "The reverse voltage that just stops the fastest electrons. Plotted against frequency it is a straight line of slope h ÷ e."
+    },
+    {
+      "term": "Planck constant (h)",
+      "def": "6.626 × 10⁻³⁴ joule seconds: the number linking a photon's energy to its frequency."
+    },
+    {
+      "term": "Electronvolt (eV)",
+      "def": "The energy an electron gains crossing one volt, 1.602 × 10⁻¹⁹ J. A photon's energy in eV is 1,240 divided by its wavelength in nm."
+    },
+    {
+      "term": "Band gap",
+      "def": "The energy needed to free an electron inside a semiconductor: 1.12 eV for silicon. It is the threshold for photodiodes and solar cells."
+    },
+    {
+      "term": "Photovoltaic effect",
+      "def": "Light producing a voltage inside a semiconductor junction, as in a solar cell. Related to the photoelectric effect, but no electron leaves the material."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "photoelectricclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

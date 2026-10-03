@@ -1,0 +1,126 @@
+{
+  "slug": "photoelectricclear",
+  "box": 32,
+  "question": "What is the photoelectric effect?",
+  "url": "https://glassbox.how/e/photoelectricclear/",
+  "app": "https://glassbox.how/photoelectricclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a stray spark in Hertz's laboratory to Einstein's photons, and on to solar panels and camera chips.\n\n1887: A spark that liked ultraviolet\n1888: A zinc plate loses its charge\n1902: Brightness does not make electrons faster\n1905: Einstein's light quanta\n1916: Millikan proves the line is straight\n1922: A Nobel Prize, but not for relativity\n\nThe full story, with 21 moments, sources and charts: glassbox.how/e/photoelectricclear/history (link in bio)\n\nThen play with how it works: glassbox.how/photoelectricclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #photoelectriceffect #photon #workfunction #thresholdfrequency #stoppingvoltage #planckconstant #history",
+      "youtube": {
+        "title": "The history of the photoelectric effect in 45 seconds #shorts",
+        "description": "From a stray spark in Hertz's laboratory to Einstein's photons, and on to solar panels and camera chips.\n\n1887 · A spark that liked ultraviolet (Heinrich Hertz)\n1888 · A zinc plate loses its charge (Wilhelm Hallwachs)\n1902 · Brightness does not make electrons faster (Philipp Lenard)\n1905 · Einstein's light quanta (Albert Einstein)\n1916 · Millikan proves the line is straight (Robert Millikan)\n1922 · A Nobel Prize, but not for relativity (Albert Einstein)\n\n▶ Full history: https://glassbox.how/e/photoelectricclear/history/\n▶ Play with it: https://glassbox.how/e/photoelectricclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What is the photoelectric effect?\n\nShine red light on zinc and nothing happens, however bright. Shine a little ultraviolet and electrons fly out at once. Run the experiment that won Einstein his Nobel Prize, find Planck's constant from a straight line, then see the same idea inside night-vision goggles, lift doors, camera sensors and solar panels.\n\n→ Shine light on metal and electrons fly out, but only when each photon carries enough energy.\n→ Bluer light gives faster electrons. The stopping voltage climbs in a straight line of slope h over e.\n→ A photomultiplier turns one freed electron into millions: four or five more at every dynode.\n→ Night-vision goggles do it for a whole picture. Under starlight the grain you see is single photons.\n→ A lift door watches an invisible infrared beam. Break it, the current stops, and the door stays open.\n\nPlay with it yourself. It's free and open source: glassbox.how/photoelectricclear (link in bio)\n\nBox No. L32 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #photoelectriceffect #photon #workfunction #thresholdfrequency #stoppingvoltage #planckconstant #ehf #einstein #millikan",
+    "carousel": "Swipe through: What is the photoelectric effect?\n\nShine red light on zinc and nothing happens, however bright. Shine a little ultraviolet and electrons fly out at once. Run the experiment that won Einstein his Nobel Prize, find Planck's constant from a straight line, then see the same idea inside night-vision goggles, lift doors, camera sensors and solar panels.\n\nSave this for later, then play with the interactive version at glassbox.how/photoelectricclear (link in bio).\n\nBox No. L32 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #photoelectriceffect #photon #workfunction #thresholdfrequency #stoppingvoltage #planckconstant",
+    "youtube": {
+      "title": "What is the photoelectric effect? #shorts",
+      "description": "Shine red light on zinc and nothing happens, however bright. Shine a little ultraviolet and electrons fly out at once. Run the experiment that won Einstein his Nobel Prize, find Planck's constant from a straight line, then see the same idea inside night-vision goggles, lift doors, camera sensors and solar panels.\n\n▶ Play with it: https://glassbox.how/e/photoelectricclear/\n⌘ Source code (MIT): https://github.com/bdeeps/photoelectricclear\n\nBox No. L32 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What is the photoelectric effect? (interactive explainer)",
+      "description": "Shine red light on zinc and nothing happens, however bright. Shine a little ultraviolet and electrons fly out at once. Run the experiment that won Einstein his Nobel Prize, find Planck's constant from a straight line, then see the same idea inside night-vision goggles, lift doors, camera sensors and solar panels.\n\n▶ Play with the interactive version: https://glassbox.how/e/photoelectricclear/\n⌘ Source code (MIT): https://github.com/bdeeps/photoelectricclear\n\nIn this video:\n• The experiment. Light on a clean metal plate in a vacuum knocks out electrons.\n• Counting photons. A photomultiplier frees one electron per photon caught, then multiplies it 4 or 5 times at each of ten or so dynodes: a gain of millions.\n• Light as a switch. Inside a semiconductor a photon frees an electron without throwing it out: the internal photoelectric effect.\n• Solar cells and camera pixels. A solar cell uses the related photovoltaic effect: light frees electrons and holes inside silicon and a p–n junction steers them round a circuit.\n• Limits and a myth. A wave would need seconds or hours to free an electron in dim light; in fact it takes under 3 billionths of a second.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What is the photoelectric effect?\n\nShine red light on zinc and nothing happens, however bright.\n\nPlay with it: https://glassbox.how/e/photoelectricclear/",
+    "linkedin": "What is the photoelectric effect?\n\nShine red light on zinc and nothing happens, however bright. Shine a little ultraviolet and electrons fly out at once. Run the experiment that won Einstein his Nobel Prize, find Planck's constant from a straight line, then see the same idea inside night-vision goggles, lift doors, camera sensors and solar panels.\n\n1. The experiment\n2. Counting photons\n3. Light as a switch\n4. Solar cells and camera pixels\n5. Limits and a myth\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L32 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/photoelectricclear/\nCode: https://github.com/bdeeps/photoelectricclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T11:27:01.819Z"
+}
